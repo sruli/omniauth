@@ -56,7 +56,7 @@ module OmniAuth
         end
       end
 
-      # Directly declare a default option for your class. This is a useful from
+      # Directly declare a default option for your class. This is useful from
       # a documentation perspective as it provides a simple line-by-line analysis
       # of the kinds of options your strategy provides by default.
       #
