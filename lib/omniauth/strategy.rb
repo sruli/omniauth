@@ -292,7 +292,7 @@ module OmniAuth
     end
 
     # The setup phase looks for the `:setup` option to exist and,
-    # if it is, will call either the Rack endpoint supplied to the
+    # if it does, will call either the Rack endpoint supplied to the
     # `:setup` option or it will call out to the setup path of the
     # underlying application. This will default to `/auth/:provider/setup`.
     def setup_phase
